@@ -33,7 +33,7 @@ You can check if a host is alive or not through the following ping command:<br/>
 Syntax - $ ping host-name/IP<br/>
 Press Ctrl+C for breaking the command<br/>
 
-
+ 
 Pinging Global host for availability<br/>
 Eg - Host - www.google.com<br/>
 Syntax - $ ping www.google.com<br/>
